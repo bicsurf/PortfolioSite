@@ -1,0 +1,53 @@
+/* CSS Custom pagine intere */
+body {
+    background-color: #212738;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* CSS Custom parti comuni pagine */
+    /* CSS Custom della Navbar */
+    .text_navbar_custom {
+        color: #EDC79B;
+    }
+    .text_navbar_custom:hover {
+        color: #3E8989;
+    }
+    /* End CSS Custom della Navbar */
+
+    /* CSS Custom Footer */
+    .bg_footer_custom {
+        height: 3rem;
+        background-color: #3E8989;
+    }
+    .text_footer_custom {
+        font-family: 'Marck Script', cursive;
+        color: #EDC79B;
+    }
+    /* End CSS Custom Footer */
+/* End CSS Custom parti comuni pagine */
+
+
+
+/* PAGINA HOMEPAGE */
+    /* CSS Custom Body */
+    .text_bodyHomepage_custom_1 {
+        color: #EDC79B;
+    }
+    .text_bodyHomepage_custom_2 {
+        color: #3E8989;
+    }
+    /* End CSS Custom Body */
+/* END HOMEPAGE */
+
+
+/* PAGINA ABOUT */
+    /* CSS Custom Body */
+    .text_about_body_custom {
+        font-size: 25px;
+        /* font-family: 'Noto Sans JP', sans-serif; */
+        font-family: 'Roboto', sans-serif;
+        color: #EDC79B;
+    }
+    /* End CSS Custom Body */
+/* END ABOUT */
